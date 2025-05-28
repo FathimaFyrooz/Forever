@@ -12,7 +12,7 @@ const FinalMessage: React.FC = () => {
         <div className="max-w-3xl mx-auto">
           <p className="text-xl leading-relaxed mb-6">
             Saade You are the most Beautiful thing that ever happened to me...you are my love,Home,world and my comfort zone...Thanku for loving
-            me like this.. I love u soooo sooo soooo much....Love uuu kore kore koreeeeeeeeeeeeeeeeem!!!!!       </p>
+            me like this.. I love u soooo sooo soooo much....Love uuu kore kore koreeeeeeeeeeeeeeeeem!!!!!   inn mone yathra ayakan varanam enn vaynakara agraham arnn..pashe nadanilla    </p>
           
           <p className="text-xl leading-relaxed mb-10">
             padachoon monte joliyil ellaa barakathum nalki anugrahikate..Aaaameen...Namal agrahicha life ethreyum vegam nalkate...namakum namade parenstinum aysusum arogyavum afiyathum nalkate...Aaaameeen
